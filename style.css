@@ -1,0 +1,16 @@
+h1{
+    border: 5px solid;
+    padding: 50px;
+    margin: 100px;
+    background-color: blueviolet;
+    width: 60px;
+    position: -webkit-sticky;
+    }
+div{
+   border: 5px solid ;
+   padding: 50px;
+   margin: 100px ;
+   width: 150px ;
+    color: brown;
+  
+}
